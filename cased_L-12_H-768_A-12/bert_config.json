@@ -4,7 +4,7 @@
     "hidden_dropout_prob": 0.1,
     "hidden_size": 768,
     "do_gaus_blur":true,    
-    "do_squeeze":false,
+    "do_squeeze":true,
     "use_position_embeddings":true,
     "use_relative_positions":false,
     "max_relative_positions":16,
