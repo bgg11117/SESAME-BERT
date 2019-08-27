@@ -21,7 +21,7 @@ from __future__ import print_function
 import collections
 import csv
 import os
-import modeling_bgg as modeling
+import modeling 
 import optimization
 import tokenization
 import numpy as np
