@@ -17,9 +17,15 @@ All these datasets can be found in https://github.com/nyu-mll/GLUE-baselines
 
 ## Getting Started
 
+GLUE BENCHMARK
 ```
 sh sesame-bert.sh
 sh bert.sh
+```
+
+HANS Evaluation Set
+```
+python evaluate_heur_output.py ./bert_output/ADV/ADV.tsv 1>./bert_output/ADV/eval_hans.txt
 ```
 
 ## Cite
