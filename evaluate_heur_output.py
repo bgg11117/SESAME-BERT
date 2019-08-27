@@ -1,3 +1,5 @@
+# Copyright ACL 2019 "Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference".
+
 import sys
 
 def format_label(label):
