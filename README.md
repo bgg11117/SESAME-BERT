@@ -2,8 +2,6 @@
 
 Code for the paper "SESAME-BERT: Attention for Anywhere". The code is based on google-research/bert .
 
-Contact: bgg@cathayholdings.com.tw
-
 ## Requirements
 
 For running the code follwing dependies are required :
