@@ -1,6 +1,6 @@
-# SESAME-BERT
+# SesameBERT
 
-Code for the paper "SESAME-BERT: Attention for Anywhere". Code forthcoming (early October). The code is based on google-research/bert.
+Code for the paper "SesameBERT: Attention for Anywhere". Code forthcoming (early October). The code is based on google-research/bert.
 
 ## Requirements
 
