@@ -12,6 +12,3 @@ For running the code follwing dependencies are required :
 ## Datasets
 
 All these datasets can be found in https://github.com/nyu-mll/GLUE-baselines
-
-
-https://arxiv.org/abs/1910.03176
