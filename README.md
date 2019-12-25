@@ -23,7 +23,7 @@ sh bert.sh
 
 HANS Evaluation Set
 ```
-python evaluate_heur_output.py ./bert_output/ADV/ADV.tsv 1>./bert_output/ADV/eval_hans.txt
+python evaluate_heur_output.py ./sesamebert_output/ADV/ADV.tsv 1>./sesamebert_output/ADV/eval_hans.txt
 ```
 
 ## Cite
