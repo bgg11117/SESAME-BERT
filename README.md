@@ -17,7 +17,7 @@ All these datasets can be found in https://github.com/nyu-mll/GLUE-baselines
 
 GLUE BENCHMARK 19th worldwide (~2020)
 ```
-sh sesame-bert.sh
+sh sesamebert.sh
 sh bert.sh
 ```
 
