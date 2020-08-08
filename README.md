@@ -32,6 +32,7 @@ python evaluate_heur_output.py ./sesamebert_output/ADV/ADV.tsv 1>./sesamebert_ou
 @article{Su2019SesameBERT,
   title={SesameBERT},
   author={Ta-Chun Su and Hsiang-Chih Cheng},
+  conference = {IEEE DSAA 2020},
   year={2019}
 }
 ```
